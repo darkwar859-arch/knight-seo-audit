@@ -230,6 +230,7 @@ a:hover {
     padding: 100px 0 48px;
     text-align: center;
     overflow: hidden;
+    background: var(--bg);
 }
 
 .hero-bg {
@@ -334,7 +335,8 @@ a:hover {
 
 /* ============ SECTIONS ============ */
 .section {
-    padding: 64px 0
+    padding: 64px 0;
+    background: var(--bg);
 }
 
 .section-alt {
@@ -1172,7 +1174,8 @@ a:hover {
 
 /* ============ CTA ============ */
 .cta-section {
-    padding: 48px 0
+    padding: 48px 0;
+    background: var(--bg);
 }
 
 .cta-box {
@@ -1217,7 +1220,8 @@ a:hover {
 /* ============ FOOTER ============ */
 .footer {
     padding: 24px 0;
-    border-top: 1px solid var(--border)
+    border-top: 1px solid var(--border);
+    background: var(--bg);
 }
 
 .footer-inner {
